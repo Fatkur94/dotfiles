@@ -1,6 +1,8 @@
 {
+
 	"line_padding_bottom": 5,
     "line_padding_top": 5,
     "font_face": "Ubuntu Mono",
 	"font_size": 13
+
 }
